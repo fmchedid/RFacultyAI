@@ -1,0 +1,18 @@
+--- 
+title: "AI Declassified: A Ross Faculty Survival Guide"
+author: "Adam Zhang, Ryan Berger, Michelle Xu, Fuad Chedid, Sona Coshal"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+#bibliography: [book.bib, packages.bib]
+# url: your book url like
+#cover-image: BugBox_BY_300dpi.jpg
+description: |
+  This is a working project. AI Declassified: A Ross Faculty Survival Guide
+link-citations: yes
+github-repo: fmchedid/RFacultyAI
+---
+
+# Introduction
+
+This book is intended to be a comprehensive look at the challenges faced by Ross faculty regarding the advent of Generative AI in academia. The content of this book is based on real world problems, solutions, and ideas captured from research and interviews with Ross Faculty members who are currently contending with the challenges brought on by educating in the age of Generative AI.
