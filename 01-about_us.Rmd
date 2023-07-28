@@ -17,3 +17,9 @@ Hello, my name is Michelle Xu.
 
 ## Fuad Chedid
 
+```{r echo=FALSE, out.width="40%"}
+knitr::include_graphics("fpic.jpeg")
+```
+
+Hi! I'm Fuad
+
