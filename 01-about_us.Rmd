@@ -5,6 +5,10 @@
 
 ## Adam Zhang
 
+```{r echo=FALSE, out.width = '40%'}
+knitr::include_graphics("AZ.jpg")
+```
+
 Hi! I'm Adam 
 
 ## Michelle Xu
