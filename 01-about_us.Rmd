@@ -3,6 +3,8 @@
 
 ## Ryan Berger
 
+Ryan is a student at Ross.
+
 ## Adam Zhang
 
 ```{r echo=FALSE, out.width = '40%'}
@@ -13,7 +15,7 @@ Hi! I'm Adam
 
 ## Michelle Xu
 
-This is a test. 
+Hello, my name is Michelle Xu. 
 
 ## Sona Coshal
 
