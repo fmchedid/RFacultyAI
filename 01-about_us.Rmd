@@ -3,9 +3,17 @@
 
 ## Ryan Berger
 
-Ryan is a student at Ross.
+```{r echo=FALSE, out.width = '40%'}
+knitr::include_graphics("rtberger.jpg")
+```
+
+Hey! I'm Ryan Berger. I am a current Master's of Business Analytics student at Michigan Ross, and also attended Michigan for my undergrad in the School of Information. I am from New Jersey, which means I am a Giants fan and I like to say I'm from New York.
 
 ## Adam Zhang
+
+```{r echo=FALSE, out.width = '40%'}
+knitr::include_graphics("AZ.jpg")
+```
 
 Hi! I'm Adam 
 
@@ -20,4 +28,10 @@ Hello, I'm Michelle Xu, originally from China. I spent six years living in the b
 ## Sona Coshal
 
 ## Fuad Chedid
+
+```{r echo=FALSE, out.width="40%"}
+knitr::include_graphics("fpic.jpeg")
+```
+
+Hi! I'm Fuad
 
