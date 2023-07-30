@@ -3,6 +3,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
+        <li><a href="./"><img src="ross.png" width="260"></a></li>
         <li><a href="./">AI Declassified: A Ross Faculty Survival Guide</a></li>
       after: |
         <li><a href="https://github.com/fmchedid/RFacultyAI" target="blank">Published with bookdown</a></li>
