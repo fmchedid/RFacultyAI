@@ -29,9 +29,9 @@ Hello, I'm Michelle Xu, originally from China. I spent six years living in the b
 
 ## Fuad Chedid
 
+Hi! I'm Fuad, a native Michigander! Before joining the Master of Business Analytics program at Michigan Ross, I was based in Dubai, UAE. I consider myself a "tech head" and my main area of interest is the intersection of business and technology. I enjoy travelling and so far have visited 27 countries and five continents. 
+
 ```{r echo=FALSE, out.width="40%"}
 knitr::include_graphics("fpic.jpeg")
 ```
-
-Hi! I'm Fuad
 
