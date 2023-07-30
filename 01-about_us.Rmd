@@ -11,7 +11,11 @@ Hi! I'm Adam
 
 ## Michelle Xu
 
-Hello, my name is Michelle Xu. 
+Hello, I'm Michelle Xu, originally from China. I spent six years living in the beautiful city of San Diego, California. After high school, I moved to Ann Arbor, Michigan, to pursue a major in Bioinformatics at LS&A. Currently, I'm a Master of Business Analytics student at the University of Michigan, Ross School of Business. 
+
+```{r echo=FALSE, out.width = "40%"}
+  knitr::include_graphics("WechatIMG10.jpeg")
+```
 
 ## Sona Coshal
 
