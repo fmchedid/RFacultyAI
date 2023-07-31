@@ -27,7 +27,11 @@ Hello, I'm Michelle Xu, originally from China. I spent six years living in the b
 
 ## Sona Coshal
 
-Hi, my name is Sona! I'm born and raised in Columbia, South Carolina and a proud USC Gamecock! I have a BSBA
+Hi, my name is Sona! I'm born and raised in Columbia, South Carolina and a proud USC Gamecock! I have a BSBA in Finance and Supply Chain from the Darla Moore School Business.
+
+```{r echo=FALSE, out.width = "40%"}
+  knitr::include_graphics("Sona's_Photo.jpg")
+```
 
 ## Fuad Chedid
 
