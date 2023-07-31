@@ -10,11 +10,11 @@ knitr::include_graphics("rtberger.jpg")
 
 ## Adam Zhang
 
+Hi! I'm Adam Zhang. I am a Master of Business Analytics student at the Ross School of Business at University of Michigan. I attended University of Illinois Urbana-Champaign where I majored economics for undergrad. I enjoy cooking, watching movies, listening to musics (mainly 70s and 80s), and going to art museums.
+
 ```{r echo=FALSE, out.width = '40%'}
 knitr::include_graphics("AZ.jpg")
 ```
-
-Hi! I'm Adam Zhang. I am a Master of Business Analytics student at the Ross School of Business at University of Michigan. I attended University of Illinois Urbana-Champaign where I majored economics for undergrad. I enjoy cooking, watching movies, listening to musics (mainly 70s and 80s), and going to art museums.
 
 ## Michelle Xu
 
