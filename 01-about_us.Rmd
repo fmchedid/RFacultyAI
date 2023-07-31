@@ -10,11 +10,11 @@ knitr::include_graphics("rtberger.jpg")
 
 ## Adam Zhang
 
-Hi! I'm Adam Zhang. I am a Master of Business Analytics student at the Ross School of Business at University of Michigan. I attended University of Illinois Urbana-Champaign where I majored economics for undergrad. I enjoy cooking, watching movies, listening to musics (mainly 70s and 80s), and going to art museums.
-
 ```{r echo=FALSE, out.width = '40%'}
 knitr::include_graphics("AZ.jpg")
 ```
+
+Hi! I'm Adam
 
 ## Michelle Xu
 
@@ -34,8 +34,13 @@ Hi, my name is Sona! I'm born and raised in Columbia, South Carolina and a proud
 
 ## Fuad Chedid
 
-Hi! I'm Fuad, a native Michigander! Before joining the Master of Business Analytics program at Michigan Ross, I was based in Dubai, UAE. I consider myself a "tech head" and my main area of interest is the intersection of business and technology. I enjoy travelling and so far have visited 27 countries and five continents.
+Hi! I'm Fuad, a native Michigander! Before joining the Master of Business Analytics program at Michigan Ross, I was based in Dubai, UAE. I consider myself a "tech head" and my main area of interest is the intersection of business and technology. I enjoy travelling and so far have visited 27 countries and five continents. 
 
 ```{r echo=FALSE, out.width="40%"}
 knitr::include_graphics("fpic.jpeg")
 ```
+
+<<<<<<< HEAD
+Hi! I'm Fuad
+=======
+>>>>>>> 0fa9a21465f5316f1620837b9a2f154901279d3c
