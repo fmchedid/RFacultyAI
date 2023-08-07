@@ -1,7 +1,9 @@
 bookdown::gitbook:
+  toc_depth: 5
   css: style.css
   config:
     toc:
+      collapse: subsection
       before: |
         <li><a href="./"><img src="ross.png" width="260"></a></li>
         <li><a href="./">AI Declassified: A Ross Faculty Survival Guide</a></li>
