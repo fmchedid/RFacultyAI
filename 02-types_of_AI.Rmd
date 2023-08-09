@@ -1,0 +1,19 @@
+# Publicly Available Generative AI
+
+## ChatGPT (Chat Generative Pre-trained )
+
+## Bing AI
+
+## Google Bard
+
+## Explainpaper 
+
+## Goblin Tools 
+
+## Codeium 
+
+## DALL-E 2 
+
+## AIVI
+
+## Stable Diffusion
