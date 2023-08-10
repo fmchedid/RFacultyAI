@@ -2,11 +2,11 @@
 
 Publicly available generative AI refers to a set of artificial technologies that are accessible to the general public and are designed to create new content based on existing data. These AI models utilize advanced machine learning techniques to generate original outputs that exhibit characteristics similar to the training data they've been exposed to. Some well-known examples of such AI tools include ChatGPT, Bing AI, Explainpaper, GitHub Copilot, etc. While these tools are gaining increasing popularity, it is important to note that they are not officially endorsed by the school. 
 
->"The University of Michigan does not endorse any specific AI tools." -- University of Michigan
+>"The University of Michigan does not endorse any specific AI tools." --- University of Michigan
 
 ## ChatGPT (Chat Generative Pre-trained )
 
-Developed by OpenAI, ChatGPT is an advanced chatbot powered by the GPT-3.5 architecture, short for 'Generative Pre-trained Transformer 3.5'. The model is trained on a vast amount of text data from various sources like books, articles, and websites, which helps it understand language patters and acquire a wide knowledge base. It employs Natural Language Processing (NLP) to respond to queries, generate content, condense data and perform many other tasks. 
+Developed by OpenAI, [ChatGPT](https://chat.openai.com/) is an advanced chatbot powered by the GPT-3.5 architecture, short for 'Generative Pre-trained Transformer 3.5'. The model is trained on a vast amount of text data from various sources like books, articles, and websites, which helps it understand language patters and acquire a wide knowledge base. It employs Natural Language Processing (NLP) to respond to queries, generate content, condense data and perform many other tasks.
 
 ```{r echo=FALSE, out.width = "90%", fig.align="center", fig.cap="Example of a question one could ask ChatGPT"}
   knitr::include_graphics("ChatGPT_Example.jpeg")
@@ -14,7 +14,7 @@ Developed by OpenAI, ChatGPT is an advanced chatbot powered by the GPT-3.5 archi
 
 ## Bing Chat
 
-Microsoft's Bing AI Chat is a chatbot powered by the GPT-4 model from OpenAI. It redefines the Bing search engine experience by offering more than conventional search results. Seamlessly integrated with Bing's serach capabilities, the chatbot utilizes its machine learning techniques to process extensive data and deliver responses in a conversational manner. 
+Microsoft's [Bing Chat](https://www.microsoft.com/en-us/edge/features/bing-chat?form=MT00D8) is a chatbot powered by the GPT-4 model from OpenAI. It redefines the Bing search engine experience by offering more than conventional search results. Seamlessly integrated with Bing's serach capabilities, the chatbot utilizes its machine learning techniques to process extensive data and deliver responses in a conversational manner. 
 
 ```{r echo=FALSE, out.width = "40%", fig.align="center", fig.cap="Example of a question one could ask Bing Chat"}
 if (knitr:::is_latex_output()) {
@@ -26,7 +26,7 @@ if (knitr:::is_latex_output()) {
 
 ## Google Bard
 
-Google Bard is an innovative AI chatbot designed to increase productivity and transform ideas into reality. With its blend of machine learning and natural language processing, Bard stands as an experiment that aim to amplify people's imagination and enhance collaboration. However, as an experiment, it might occasionally provide inaccurate and inappropriate responses, which makes user feedback essential for its refinement.
+[Google Bard](https://bard.google.com/) is an innovative AI chatbot designed to increase productivity and transform ideas into reality. With its blend of machine learning and natural language processing, Bard stands as an experiment that aim to amplify people's imagination and enhance collaboration. However, as an experiment, it might occasionally provide inaccurate and inappropriate responses, which makes user feedback essential for its refinement.
 
 ```{r echo=FALSE, out.width = "90%", fig.align="center", fig.cap="Example of a question one could ask Google Bard"}
   knitr::include_graphics("Google_Bard_Example.jpeg")
@@ -34,14 +34,14 @@ Google Bard is an innovative AI chatbot designed to increase productivity and tr
 
 ## Explainpaper 
 
-Explainpaper is a platform designed to simplify comprehension and learning of academic papers. It allows users to upload a paper, identify confusing sections of the text through highlighting and subsequently receive corresponding explanations. Complementing the explanations, additional resources related to the section are also shown to the users. 
+[Explainpaper](https://www.explainpaper.com/) is a platform designed to simplify comprehension and learning of academic papers. It allows users to upload a paper, identify confusing sections of the text through highlighting and subsequently receive corresponding explanations. Complementing the explanations, additional resources related to the section are also shown to the users. 
 
 ```{r echo=FALSE, out.width = "90%", fig.align="center", fig.cap="Example of what Explainpaper can be used for"}
   knitr::include_graphics("Explainpaper_Example.jpeg")
 ```
 ## GitHub Copilot
 
-GitHub Copilot is an AI developer tool that has gained significant recognition and was widely adopted within the programming community. Developed through a collaborative effort involving GitHub, OpenAI, and Microsoft, GitHub Copilot is a powerful tool that utilizes a generative AI model trained on extensive lines of code. Its primary function is to offer coding suggestions in multiple programming languages by interpreting natural language prompts. 
+[GitHub Copilot](https://github.com/features/copilot) is an AI developer tool that has gained significant recognition and was widely adopted within the programming community. Developed through a collaborative effort involving GitHub, OpenAI, and Microsoft, GitHub Copilot is a powerful tool that utilizes a generative AI model trained on extensive lines of code. Its primary function is to offer coding suggestions in multiple programming languages by interpreting natural language prompts. 
 
 ```{r echo=FALSE, out.width = "95%", fig.align="center", fig.cap="Example usage of GitHub Copilot"}
   knitr::include_graphics("GitHub_Copilot_Example.jpeg")
@@ -49,15 +49,15 @@ GitHub Copilot is an AI developer tool that has gained significant recognition a
 
 ## Goblin Tools 
 
-Goblin Tool offer a comprehensive solution for developers seeking guidance on difficult programming tasks. This tool utilizes its expertise to break down complex processes into manageable stages, which ensures that developers can follow a clear and structured path to successful implementation. 
+[Goblin Tool](https://goblin.tools/) offer a comprehensive solution for developers seeking guidance on difficult programming tasks. This tool utilizes its expertise to break down complex processes into manageable stages, which ensures that developers can follow a clear and structured path to successful implementation. 
 
 ```{r echo=FALSE, out.width = "70%", fig.align="center", fig.cap="Example of a programming task fed to Goblin Tool"}
   knitr::include_graphics("Goblin_Tool_Example.jpeg")
 ```
 
-## DALL-E 2 
+## DALL-E
 
-DALLE is an advanced AI system developed by OpenAI that specializes in creating realistic images and art based on natural language descriptions. Users can provide text description of scenes, concepts or attributes and DALLE can translate these descriptions into images.
+[DALL-E](https://labs.openai.com/) is an advanced AI system developed by OpenAI that specializes in creating realistic images and art based on natural language descriptions. Users can provide text description of scenes, concepts or attributes and DALLE can translate these descriptions into images.
 
 ```{r echo=FALSE, out.width = "70%", fig.align="center", fig.cap="\"Girl with a pearl earring and a snake\" by Johannes Vermeer"}
   knitr::include_graphics("Girl_with_a_pearlearrring_a_snake.png")
@@ -65,7 +65,7 @@ DALLE is an advanced AI system developed by OpenAI that specializes in creating 
 
 ## Gen-1 Runway ML 
 
-Runway ML allows users to transform text into video, create images from prompts, expand and re-image images, train custom AI models, manipulate videos, apply slow-motion effects, and so on. 
+[Runway ML](https://runwayml.com/) allows users to transform text into video, create images from prompts, expand and re-image images, train custom AI models, manipulate videos, apply slow-motion effects, and so on. 
 
 ```{r echo=FALSE, out.width = "70%", fig.align="center", fig.cap="Example usage of Runway ML: Image -> Video"}
 if (knitr:::is_latex_output()) {
@@ -77,7 +77,7 @@ if (knitr:::is_latex_output()) {
 
 ## AIVI
 
-AIVA is an AI tool designed to assist individuals in composing emotional and engaging soundtracks. It offers a range of predefined music styles like Modern, Pop, Rock, Jazz, etc. and to compose music. The platform offers a user-friendly interface that allows users to input specific parameters and preferences like style, mood and instrumentation and then generate original music that aligns with those criteria. 
+[AIVA](https://www.aiva.ai/) is an AI tool designed to assist individuals in composing emotional and engaging soundtracks. It offers a range of predefined music styles like Modern, Pop, Rock, Jazz, etc. and to compose music. The platform offers a user-friendly interface that allows users to input specific parameters and preferences like style, mood and instrumentation and then generate original music that aligns with those criteria. 
 
 ```{r echo=FALSE, out.width = "95%", fig.align="center", fig.cap="AIVI Dashboard"}
   knitr::include_graphics("AIVI_Dashboard.jpeg")

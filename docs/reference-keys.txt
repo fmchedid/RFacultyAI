@@ -31,7 +31,7 @@ google-bard
 explainpaper
 github-copilot
 goblin-tools
-dall-e-2
+dall-e
 gen-1-runway-ml
 aivi
 final-thoughts
