@@ -1,6 +1,6 @@
 # Publicly Available Generative AI
 
-## ChatGPT (Chat Generative Pre-trained )
+## ChatGPT
 
 ## Bing AI
 

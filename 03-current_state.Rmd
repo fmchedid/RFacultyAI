@@ -10,11 +10,11 @@ Recently established by the GAIA Committee (see \@ref(gaia-committee)), <https:/
 
 The Generative AI Advisory ([GAIA](https://it.umich.edu/strategy-planning/gaia)) Committee was established in the first half of 2023, with the overall aim being:
 
-> to provide guidance to the university community for the use of generative AI and provide strategic advice to the VPIT-CIO and Provost.
+> "to provide guidance to the university community for the use of generative AI and provide strategic advice to the VPIT-CIO and Provost."
 
 An overview of the committee's [official report](https://genai.umich.edu/committee-report), published on June 30th 2023, is provided in section \@ref(initial-report-june-30-2023).
 
-The committee includes members from the following schools, colleges, and departments:
+The committee currently includes members from the following schools, colleges, and departments:
 
 | School / College / Department                    | \# of Member(s) |
 |--------------------------------------------------|-----------------|
@@ -37,7 +37,11 @@ The committee includes members from the following schools, colleges, and departm
 
 ### Initial Report (June 30 2023)
 
+The below extracts from the report provide key insights and guidance to instructors. The GAIA Committee reported the following:
+
 #### Key Benefits and Opportunities {.unnumbered}
+
+![](open.png){width="30" height="20"}
 
 > -   GenAI will enable U-M to advance its mission and accelerate and support Vision 2034.
 >
@@ -49,7 +53,11 @@ The committee includes members from the following schools, colleges, and departm
 >
 > -   **U-M has the intellectual depth, resources, and international and national connections and networks to be the leader in the development and appropriate use of GenAI.**
 
+![](close.png){width="30" height="20"}
+
 #### Key Threats and Weaknesses {.unnumbered}
+
+![](open.png){width="30" height="20"}
 
 > -   Several technical weaknesses currently exist, including temporal ignorance, hallucination and fabrication, misattribution, overriding safety protocols, inadvertent inclusion breaches or ethical problems, and bias in training data.
 >
@@ -71,9 +79,13 @@ The committee includes members from the following schools, colleges, and departm
 >
 >     -   and unauthorized generation or replication of copyrighted or otherwise protected material.
 
+![](close.png){width="30" height="20"}
+
 #### Overall Recommendations {.unnumbered}
 
-A brief highlight of the recommendations provided in the report:
+A brief highlight of the overarching recommendations provided in the report:
+
+![](open.png){width="30" height="20"}
 
 > -   Dissemination of guidance and launch of campus discussion (Timeline: immediate).
 >
@@ -93,11 +105,15 @@ A brief highlight of the recommendations provided in the report:
 >
 > -   Launch a U-M GenAI website providing strategy, policies, resources, and links. Coordinate this with a well-defined communication plan (Timeline: Immediate).
 
-#### Instructor Recommendations  {.unnumbered}
+![](close.png){width="30" height="20"}
+
+#### Instructor Recommendations {.unnumbered}
 
 The committee's initial report identifies teaching and learning as the most *"immediate and significant GenAI application domain"* and provides guidance to instructors to help prepare for the Fall 2023 semester. The below sections include highlights of the guidance.
 
 Generally, the committee finds that it is presently "nearly impossible to enforce" banning GenAI use in coursework. And therefore, strongly recommends that instructors consider the following questions when adapting course work:
+
+![](open.png){width="30" height="20"}
 
 > -   Should GenAI be used in the course or not---and why or why not?
 >
@@ -109,11 +125,15 @@ Generally, the committee finds that it is presently "nearly impossible to enforc
 >
 > -   Should assessments be revised?
 
+![](close.png){width="30" height="20"}
+
 ##### GenAI: permit or ban? {.unnumbered}
 
 The report also addresses the fact that current academic misconduct definitions, Honor Codes, and academic integrity policies do not account for GenAI explicitly, and should be updated. The committee also acknowledges that students who use GenAI in an unauthorized manor may be committing cheating or plagiarism.
 
 In determining GenAI permissability within academic misconduct policies, the report provides the following view:
+
+![](open.png){width="30" height="20"}
 
 > Common approaches to updating academic misconduct policies are:
 >
@@ -123,7 +143,11 @@ In determining GenAI permissability within academic misconduct policies, the rep
 >
 > The GAIA committee believes that the "person" approach misleadingly attributes sentience and a reasoning capacity to GenAI, and proposes that the "source" approach is more workable, and aligned with our mission of teaching students to engage effectively and ethically with the world around them.
 
+![](close.png){width="30" height="20"}
+
 With regard to course policy, the report provides the following guidance to instructors:
+
+![](open.png){width="30" height="20"}
 
 > -   it is critical that expectations are clearly articulated in the syllabus and continually reinforced when assignments are given.
 >
@@ -141,6 +165,8 @@ With regard to course policy, the report provides the following guidance to inst
 >
 > If GenAI tools are allowed, the instructor should be clear which tools are allowed and in what capacity. On the other hand, if GenAI tools are disallowed, the committee suggests that the instructor give reasons why the use of GenAI tools would hinder learning.
 
+![](close.png){width="30" height="20"}
+
 The report also suggests instructors review recommendations from <http://sentientsyllabus.org> for items to consider including in the syllabus.
 
 ##### Redesigning Coursework {.unnumbered}
@@ -148,6 +174,8 @@ The report also suggests instructors review recommendations from <http://sentien
 The committee recommends that, out the outset, instructors become familiar with and practice using GenAI tools. For information regarding currently available tools, see section \@ref(publicly-available-generative-ai).
 
 Once familiarized, the committee recommends that instructors consider the following with respect to their current course design:
+
+![](open.png){width="30" height="20"}
 
 > 1.  What are the course objectives and rationale for them? Can GenAI be used to meet any of the objectives?
 >
@@ -159,7 +187,11 @@ Once familiarized, the committee recommends that instructors consider the follow
 >
 > 5.  Do the objectives, tasks, or assessments present problems with respect to equity, inclusion, diversity, or accessibility? If so, can they be adjusted to ensure fairness and inclusion?
 
+![](close.png){width="30" height="20"}
+
 The committee recommends "**that the course design should include some parts that cannot be completed satisfactorily (solely) by GenAI tools,** unless GenAI skills and values are the primary learning objectives." Moreover, **"Instructors are encouraged to try completing assignments using GenAI tools before distribut- ing assignments to students."** The following guidance for how to adjust course design (summarized) is provided:
+
+![](open.png){width="30" height="20"}
 
 > -   Larger component of technology-free in-class assignments
 >
@@ -175,6 +207,8 @@ The committee recommends "**that the course design should include some parts tha
 >
 >     -   What skills will students gain from using AI, what knowledge will they need to apply?
 
+![](close.png){width="30" height="20"}
+
 And the below decision tree is provided to help facilitate "transparent assignment design"
 
 ![](dec_tree.png)
@@ -182,6 +216,8 @@ And the below decision tree is provided to help facilitate "transparent assignme
 ##### Considerations for Writing-intensive Courses {.unnumbered}
 
 For writing-intensive courses, the committee recognizes there are specific challenges to be addressed. Below is a summary of the guidance provided:
+
+![](open.png){width="30" height="20"}
 
 > -   GenAI will transform traditional academic writing, multimodal/multimedia composition, and creative expression in every U-M school and college.
 >
@@ -193,9 +229,11 @@ For writing-intensive courses, the committee recognizes there are specific chall
 >
 > -   Instead of eliminating writing assignments, instructors should consider how they might adapt their goals for writing assignments to new GenAI environments.
 
+![](close.png){width="30" height="20"}
+
 ## Other U-M Guidance
 
-Presently, the University of Michigan has the following:
+Other University of Michigan guidance on GenAI :
 
 -   [Artificial Intelligence and U-M Institutional Data - IT Guidance](https://safecomputing.umich.edu/protect-the-u/safely-use-sensitive-data/AI-and-UM-Data)
 
@@ -212,6 +250,8 @@ Presently, the University of Michigan has the following:
 [PLACEHOLDER]
 
 ## Community Perspective
+
+[PLACE HOLDER]
 
 <https://www.maisi.club/about>
 
