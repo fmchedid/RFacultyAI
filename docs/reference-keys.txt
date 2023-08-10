@@ -16,14 +16,15 @@ other-u-m-guidance
 ross
 community-perspective
 publicly-available-generative-ai
-chatgpt
-bing-ai
+chatgpt-chat-generative-pre-trained
+bing-chat
 google-bard
 explainpaper
 goblin-tools
 codeium
 dall-e-2
 aivi
+github-copilot
 stable-diffusion
 final-thoughts
 works-cited
