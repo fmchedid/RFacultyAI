@@ -39,6 +39,13 @@ Explainpaper is a platform designed to simplify comprehension and learning of ac
 ```{r echo=FALSE, out.width = "90%", fig.align="center", fig.cap="Example of what Explainpaper can be used for"}
   knitr::include_graphics("Explainpaper_Example.jpeg")
 ```
+## GitHub Copilot
+
+GitHub Copilot is an AI developer tool that has gained significant recognition and was widely adopted within the programming community. Developed through a collaborative effort involving GitHub, OpenAI, and Microsoft, GitHub Copilot is a powerful tool that utilizes a generative AI model trained on extensive lines of code. Its primary function is to offer coding suggestions in multiple programming languages by interpreting natural language prompts. 
+
+```{r echo=FALSE, out.width = "95%", fig.align="center", fig.cap="Example usage of GitHub Copilot"}
+  knitr::include_graphics("GitHub_Copilot_Example.jpeg")
+```
 
 ## DALL-E 2 
 
@@ -55,14 +62,9 @@ AIVA is an AI tool designed to assist individuals in composing emotional and eng
 ```{r echo=FALSE, out.width = "95%", fig.align="center", fig.cap="AIVI Dashboard"}
   knitr::include_graphics("AIVI_Dashboard.jpeg")
 ```
-## GitHub Copilot
-
-
 
 ## Goblin Tools 
 
 ## Codeium 
-
-
 
 ## Stable Diffusion
