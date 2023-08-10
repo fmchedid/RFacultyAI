@@ -5,6 +5,8 @@ fig:unnamed-chunk-9
 fig:unnamed-chunk-10
 fig:unnamed-chunk-11
 fig:unnamed-chunk-12
+fig:unnamed-chunk-13
+fig:unnamed-chunk-14
 introduction
 about-us
 ryan-berger
@@ -28,10 +30,9 @@ bing-chat
 google-bard
 explainpaper
 github-copilot
-dall-e-2
-aivi
 goblin-tools
-codeium
-stable-diffusion
+dall-e-2
+gen-1-runway-ml
+aivi
 final-thoughts
 works-cited

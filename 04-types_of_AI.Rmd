@@ -47,12 +47,32 @@ GitHub Copilot is an AI developer tool that has gained significant recognition a
   knitr::include_graphics("GitHub_Copilot_Example.jpeg")
 ```
 
+## Goblin Tools 
+
+Goblin Tool offer a comprehensive solution for developers seeking guidance on difficult programming tasks. This tool utilizes its expertise to break down complex processes into manageable stages, which ensures that developers can follow a clear and structured path to successful implementation. 
+
+```{r echo=FALSE, out.width = "70%", fig.align="center", fig.cap="Example of a programming task fed to Goblin Tool"}
+  knitr::include_graphics("Goblin_Tool_Example.jpeg")
+```
+
 ## DALL-E 2 
 
 DALLE is an advanced AI system developed by OpenAI that specializes in creating realistic images and art based on natural language descriptions. Users can provide text description of scenes, concepts or attributes and DALLE can translate these descriptions into images.
 
 ```{r echo=FALSE, out.width = "70%", fig.align="center", fig.cap="\"Girl with a pearl earring and a snake\" by Johannes Vermeer"}
   knitr::include_graphics("Girl_with_a_pearlearrring_a_snake.png")
+```
+
+## Gen-1 Runway ML 
+
+Runway ML allows users to transform text into video, create images from prompts, expand and re-image images, train custom AI models, manipulate videos, apply slow-motion effects, and so on. 
+
+```{r echo=FALSE, out.width = "70%", fig.align="center", fig.cap="Example usage of Runway ML: Image -> Video"}
+if (knitr:::is_latex_output()) {
+  knitr::asis_output('\\url{....}')
+} else {
+  knitr::include_graphics("Runway_Example.GIF")
+}
 ```
 
 ## AIVI
@@ -62,9 +82,3 @@ AIVA is an AI tool designed to assist individuals in composing emotional and eng
 ```{r echo=FALSE, out.width = "95%", fig.align="center", fig.cap="AIVI Dashboard"}
   knitr::include_graphics("AIVI_Dashboard.jpeg")
 ```
-
-## Goblin Tools 
-
-## Codeium 
-
-## Stable Diffusion
