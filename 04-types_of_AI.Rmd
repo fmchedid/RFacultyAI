@@ -1,6 +1,6 @@
 # Publicly Available Generative AI
 
-Publicly available generative AI refers to a set of artificial technologies that are accessible to the general public and are designed to create new content based on existing data. These AI models utilize advanced machine learning techniques to generate original outputs that exhibit characteristics similar to the training data they've been exposed to. Some wel-known examples of such AI tools include ChatGPT, Bing AI, Explainpaper, GitHub Copilot, etc. While these tools are gaining increasing popularity, it is important to note that they are not officially endorsed by the school. 
+Publicly available generative AI refers to a set of artificial technologies that are accessible to the general public and are designed to create new content based on existing data. These AI models utilize advanced machine learning techniques to generate original outputs that exhibit characteristics similar to the training data they've been exposed to. Some well-known examples of such AI tools include ChatGPT, Bing AI, Explainpaper, GitHub Copilot, etc. While these tools are gaining increasing popularity, it is important to note that they are not officially endorsed by the school. 
 
 >"The University of Michigan does not endorse any specific AI tools." -- University of Michigan
 
@@ -32,6 +32,14 @@ Google Bard is an innovative AI chatbot designed to increase productivity and tr
   knitr::include_graphics("Google_Bard_Example.jpeg")
 ```
 
+## Explainpaper 
+
+Explainpaper is a platform designed to simplify comprehension and learning of academic papers. It allows users to upload a paper, identify confusing sections of the text through highlighting and subsequently receive corresponding explanations. Complementing the explanations, additional resources related to the section are also shown to the users. 
+
+```{r echo=FALSE, out.width = "90%", fig.align="center", fig.cap="Example of what Explainpaper can be used for"}
+  knitr::include_graphics("Explainpaper_Example.jpeg")
+```
+
 ## DALL-E 2 
 
 DALLE is an advanced AI system developed by OpenAI that specializes in creating realistic images and art based on natural language descriptions. Users can provide text description of scenes, concepts or attributes and DALLE can translate these descriptions into images.
@@ -47,13 +55,14 @@ AIVA is an AI tool designed to assist individuals in composing emotional and eng
 ```{r echo=FALSE, out.width = "95%", fig.align="center", fig.cap="AIVI Dashboard"}
   knitr::include_graphics("AIVI_Dashboard.jpeg")
 ```
+## GitHub Copilot
 
-## Explainpaper 
+
 
 ## Goblin Tools 
 
 ## Codeium 
 
-## GitHub Copilot
+
 
 ## Stable Diffusion

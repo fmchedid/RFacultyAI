@@ -3,6 +3,7 @@ fig:unnamed-chunk-7
 fig:unnamed-chunk-8
 fig:unnamed-chunk-9
 fig:unnamed-chunk-10
+fig:unnamed-chunk-11
 introduction
 about-us
 ryan-berger
@@ -24,12 +25,12 @@ publicly-available-generative-ai
 chatgpt-chat-generative-pre-trained
 bing-chat
 google-bard
+explainpaper
 dall-e-2
 aivi
-explainpaper
+github-copilot
 goblin-tools
 codeium
-github-copilot
 stable-diffusion
 final-thoughts
 works-cited
