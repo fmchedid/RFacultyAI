@@ -8,7 +8,7 @@ Publicly available generative AI refers to a set of artificial technologies that
 
 Developed by OpenAI, ChatGPT is an advanced chatbot powered by the GPT-3.5 architecture, short for 'Generative Pre-trained Transfomer 3.5'. The model is trained on a vast amount of text data from various sources like books, articles, and websites, which helps it understand language patters and aquire a wide knolwedge base. It employs Natural Language Processing (NLP) to respond to queries, generate content, condense data and perform many other tasks. 
 
-```{r echo=FALSE, out.width = "90%"}
+```{r echo=FALSE, out.width = "90%", fig.align="center", fig.cap="Example of a question one could ask ChatGPT"}
   knitr::include_graphics("ChatGPT_Example.jpeg")
 ```
 
@@ -18,6 +18,22 @@ Microsoft's Bing AI Chat is a chatbot powered by the GPT-4 model from OpenAI. It
 
 ## Google Bard
 
+Google Bard is an innovative AI chatbot designed to increase productivity and transform ideas into reality. With its blend of machine learning and natural language processing, Bard stands as an experiment that aim to amplify people's imagination and enhance collaboration. However, as an experiment, it might occasionally provide inaccurate and inappropriate responses, which makes user feedback essential for its refinement.
+
+```{r echo=FALSE, out.width = "90%", fig.align="center", fig.cap="Example of a question one could ask Google Bard"}
+  knitr::include_graphics("Google_Bard_Example.jpeg")
+```
+
+## DALL-E 2 
+
+DALLE is an advanced AI system developed by OpenAI that specializes in creating realistic images and art based on natural language descriptions. Users can provide text description of scenes, concepts or attributes and DALLE can translate these descriptions into images.
+
+```{r echo=FALSE, out.width = "70%", fig.align="center", fig.cap="\"Girl with a pearl earring and a snake\" by Johannes Vermeer"}
+  knitr::include_graphics("Girl_with_a_pearlearrring_a_snake.png")
+```
+
+
+
 
 
 ## Explainpaper 
@@ -25,12 +41,6 @@ Microsoft's Bing AI Chat is a chatbot powered by the GPT-4 model from OpenAI. It
 ## Goblin Tools 
 
 ## Codeium 
-
-## DALL-E 2 
-
-DALLE is an advanced AI system developed by OpenAI that specializes in creating realistic images and art based on natural language descriptions. Users can provide text description of scenes, concepts or attributes and DALLE can translate these descriptions into images. 
-
-
 
 ## AIVI
 
