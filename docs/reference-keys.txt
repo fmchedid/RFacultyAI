@@ -34,5 +34,5 @@ github-copilot
 goblin-tools
 dall-e
 gen-1-runway-ml
-aivi
+aiva
 final-thoughts
