@@ -1,0 +1,83 @@
+# Ross Faculty Perspective
+
+Faculty and Staff are uniquely positioned to provided perspective on the opportunities and challenges faced in higher education in the age of GenAI. Several questions come to mind, and to gain insight, we conducted five interviews and compared and contrasted the responses.
+
+## Participants
+
++:------------------------------------:+:-------------------------------------------------------:+:-------------------------------------:+:-------------------------------------------------:+:-------------------------------------------------:+
+| **Kaci Keggler**                     | **Dr. John Branch**                                     | **Dr. Ali Hojjat**                    | **Dr. John Silberholz**                           | **Dr. David Mendez**                              |
++--------------------------------------+---------------------------------------------------------+---------------------------------------+---------------------------------------------------+---------------------------------------------------+
+| ![](kaci.jpeg){width="100"}          | ![](branch.jpeg){width="100"}                           | ![](hojjat.jpeg){width="100"}         | ![](silverholtz.jpeg){width="100"}                | ![](mendez.png){width="100"}                      |
+|                                      |                                                         |                                       |                                                   |                                                   |
+| Director, One-Year Master's Programs | Clinical Associate Professor of Business Administration | Lecturer of Technology and Operations | Assistant Professor for Technology and Operations | Associate Professor, Health Management and Policy |
+|                                      |                                                         |                                       |                                                   |                                                   |
+| Michigan Ross                        | Michigan Ross                                           | Michigan Ross                         | Michigan Ross                                     | School of Public Health                           |
++--------------------------------------+---------------------------------------------------------+---------------------------------------+---------------------------------------------------+---------------------------------------------------+
+
+## Q&A
+
+Interviews were conducted individually, and the below responses to each question are **paraphrased**.
+
+**Question:** *Do you foresee any challenges or opportunities that AI advancements could bring to the business school environment? Are there any potential risks or rewards associated with increasing the integration of AI in student learning? Have you observed any specific improvements in student learning outcomes or performance when using AI tools in the classroom?*
+
++-------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Kaci Keggler**        | Beyond academic integrity, AI has disrupted other aspects of higher education. For example, fraudulent applications are a main concern. Admission essays could be written using AI tools, or applicants may hire consultants. This raises questions on the effectiveness of requiring admission essays and places more weight on direct interviews. During an interview, the applicant could be asked to define a made-up word, and the goal isn't to make up a definition, but to admit that you do not know what it means. Increasingly, applications are becoming more about determining who's authentic. Historically, essay evaluation has been a long-standing issue, but the advent of GenAI compounds the problem. Everyone can look good on paper, but the intention behind essays is to understand an applicant's traits and personality. As a response, interviews can carry more weight during our application evaluation.                               |
++-------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Dr. John Branch**     | ChatGPT is a great supplemental tool for teaching business analytics. This work in general requires a great deal of high-level synthesis and critical thinking skills. These are areas that ChatGPT does not provide much assistance. On the other hand, GenAI tools like ChatGPT can help students with the rote learning associated with advanced analytics, such as memorizing syntax and generating starter code from which to work. All in all, these tools allow students to be more efficient in their learning, without compromising the ability to understand and solve problems in a practical sense. There are some concerns with low level analytical courses such as undergraduate excel class where students can copy and paste directly from ChatGPT and generally score well. But intermediate and advanced analytical work within excel or other tools requires a great deal of synthesis and abstraction, which are not a strength of GenAI tools. |
++-------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Dr. Ali Hojjat**      | GenAI is just another tool, and it is here to stay. We ought to get out in front of it and integrate it into our teaching. During a recent emergency faculty meeting, we discussed our response strategy to the proliferation of GenAI in higher education. A major concern was academic integrity. Specifically, for writing intensive courses like those which I teach, a large concern is that students would submit their work through dependent use of GenAI tools.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
++-------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Dr. John Silberholz** | GenAI is a positive development in academia. I don't see any concerns with the development of our students and the skills that they need to be successful in the workplace. The recent GenAI developments are akin to the rise of search engine prominence. Those who knew of the technology and understood how to use it benefited in the short-term. But eventually that advantage dissipates as the tool becomes more widespread in its use. The biggest challenge from an academic perspective is the ability to ensure equity of access to all students. This will be particularly challenging as these tools advance and become more specialized. In today's classroom, GenAI tools allow students to focus on higher learning principles that require critical thinking skills by offloading the mental capacity needed to process lower level memorization work.                                                                                             |
++-------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Dr. David Mendez**    | GenAI has brought more opportunities than challenges to higher education. Inevitably, it is a tool which will be with all of us for the rest of our lives. We must learn to live in the AI world, and anticipate future developments. One significant challenge is that certain skills will no longer be marketable to employers, and we have to adjust how we prepare students to enter the workforce. Although it can be difficult to let go of past learning objectives, if ChatGPT can do it, why teach it? However, when it comes to course work that involves critical thinking and problem solving, GenAI poses no significant threat to learning objectives. Instructors need to be explicit at the start of the course and lay out the ground rules for GenAI tool use.                                                                                                                                                                                     |
++-------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+**Insights:**
+
+**Question:** *How can educators maintain academic integrity when students have access to AI language models that can generate text and answers?*
+
++-------------------------+---------------------------------------------+
+| **Kaci Keggler**        |                                             |
++-------------------------+---------------------------------------------+
+| **Dr. John Branch**     |                                             |
++-------------------------+---------------------------------------------+
+| **Dr. Ali Hojjat**      |                                             |
++-------------------------+---------------------------------------------+
+| **Dr. John Silberholz** |                                             |
++-------------------------+---------------------------------------------+
+| **Dr. David Mendez**    |                                             |
++-------------------------+---------------------------------------------+
+
+**Insights:**
+
+**Question:** *What are some effective ways to integrate AI tools into the business school curriculum to enhance the learning experience? Are there any specific subjects or topics where AI can be particularly valuable for students?*
+
++-------------------------+---------------------------------------------+
+| **Kaci Keggler**        |                                             |
++-------------------------+---------------------------------------------+
+| **Dr. John Branch**     |                                             |
++-------------------------+---------------------------------------------+
+| **Dr. Ali Hojjat**      |                                             |
++-------------------------+---------------------------------------------+
+| **Dr. John Silberholz** |                                             |
++-------------------------+---------------------------------------------+
+| **Dr. David Mendez**    |                                             |
++-------------------------+---------------------------------------------+
+
+**Insights:**
+
+**Question:** *What do you envision as the future role of AI in business education, and how might it evolve in the coming years?*
+
++-------------------------+---------------------------------------------+
+| **Kaci Keggler**        |                                             |
++-------------------------+---------------------------------------------+
+| **Dr. John Branch**     |                                             |
++-------------------------+---------------------------------------------+
+| **Dr. Ali Hojjat**      |                                             |
++-------------------------+---------------------------------------------+
+| **Dr. John Silberholz** |                                             |
++-------------------------+---------------------------------------------+
+| **Dr. David Mendez**    |                                             |
++-------------------------+---------------------------------------------+
+
+**Insights:**
