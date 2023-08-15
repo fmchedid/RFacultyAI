@@ -37,9 +37,37 @@ The committee currently includes members from the following schools, colleges, a
 
 ### Initial Report (June 30 2023)
 
-The below extracts from the report provide key insights and guidance to instructors. The GAIA Committee reported the following:
+The below extracts from the report have been selectively chosen based on their immediate relevancy to instructors.
+
+#### Overall Recommendations {.unnumbered}
+
+A brief highlight of the overarching recommendations:
+
+![](open.png){width="30" height="20"}
+
+> -   Dissemination of guidance and launch of campus discussion (Timeline: immediate).
+>
+> -   Teaching, Learning, and Academic Innovation (Timeline: Fall 2023). U-M can approach GenAI as an opportunity to rethink how we teach and define meaningful learning objectives, promote inclusion and equity, and assess learning. **Instructors should be given complete flexibility to allow or disallow the use of GenAI tools.**
+>
+> -   Assess the use of GenAI in research and set best practice standards for privacy protections; data use controls; and updating research integrity reated SPGs, PEERS modules, and RCR training.
+>
+> -   Provost, VPR and VPIT should establish a U-M wide research initiative in the area of Generative AI (Timeline: Fall 2023/Winter 2024).
+>
+>     -   U-M should consider developing its own version of foundation GenAI models to enable research and innovation (Timeline: Begin activities in Fall 2023).
+>
+> -   Expansion of IT infrastructure to accommodate secure and equitable access to GenAI plat- forms and tools (Timeline: Immediate and Variable).
+>
+>     -   Create and deliver new GenAI services. These services will be offered across three tiers, each catering to different needs and technical proficiencies and made available to Ann Arbor, Flint, and Dearborn.
+>
+> -   VPIT to work with the GAIA committee to coordinate and establish an AI digital commons where our community can share best practices and emerging ideas in GenAI (Timeline: Immediate).
+>
+> -   Launch a U-M GenAI website providing strategy, policies, resources, and links. Coordinate this with a well-defined communication plan (Timeline: Immediate).
+
+![](close.png){width="30" height="20"}
 
 #### Key Benefits and Opportunities {.unnumbered}
+
+Highlights of key benefits and opportunities:
 
 ![](open.png){width="30" height="20"}
 
@@ -56,6 +84,8 @@ The below extracts from the report provide key insights and guidance to instruct
 ![](close.png){width="30" height="20"}
 
 #### Key Threats and Weaknesses {.unnumbered}
+
+Highlights of key threats and weaknesses:
 
 ![](open.png){width="30" height="20"}
 
@@ -78,32 +108,6 @@ The below extracts from the report provide key insights and guidance to instruct
 >     -   inequitable access to state-of-the-art GenAI systems,
 >
 >     -   and unauthorized generation or replication of copyrighted or otherwise protected material.
-
-![](close.png){width="30" height="20"}
-
-#### Overall Recommendations {.unnumbered}
-
-A brief highlight of the overarching recommendations provided in the report:
-
-![](open.png){width="30" height="20"}
-
-> -   Dissemination of guidance and launch of campus discussion (Timeline: immediate).
->
-> -   Teaching, Learning, and Academic Innovation (Timeline: Fall 2023). U-M can approach GenAI as an opportunity to rethink how we teach and define meaningful learning objectives, promote inclusion and equity, and assess learning. **Instructors should be given complete flexibility to allow or disallow the use of GenAI tools.**
->
-> -   Assess the use of GenAI in research and set best practice standards for privacy protections; data use controls; and updating research integrity reated SPGs, PEERS modules, and RCR training.
->
-> -   Provost, VPR and VPIT should establish a U-M wide research initiative in the area of Generative AI (Timeline: Fall 2023/Winter 2024).
->
->     -   U-M should consider developing its own version of foundation GenAI models to enable research and innovation (Timeline: Begin activities in Fall 2023).
->
-> -   Expansion of IT infrastructure to accommodate secure and equitable access to GenAI plat- forms and tools (Timeline: Immediate and Variable).
->
->     -   Create and deliver new GenAI services. These services will be offered across three tiers, each catering to different needs and technical proficiencies and made available to Ann Arbor, Flint, and Dearborn.
->
-> -   VPIT to work with the GAIA committee to coordinate and establish an AI digital commons where our community can share best practices and emerging ideas in GenAI (Timeline: Immediate).
->
-> -   Launch a U-M GenAI website providing strategy, policies, resources, and links. Coordinate this with a well-defined communication plan (Timeline: Immediate).
 
 ![](close.png){width="30" height="20"}
 
@@ -209,7 +213,7 @@ The committee recommends "**that the course design should include some parts tha
 
 ![](close.png){width="30" height="20"}
 
-```{r echo=FALSE, out.width = "100%", fig.align="center", fig.cap="The report provides a decision tree help facilitate 'transparent assignment design'"}
+```{r echo=FALSE, out.width = "100%", fig.align="center", fig.cap="Decision tree help facilitate 'transparent assignment design' provided in the June 2023 GAIA report."}
 if (knitr:::is_latex_output()) {
   knitr::asis_output('\\url{....}')
 } else {
@@ -259,7 +263,7 @@ U-M GPT is currently in beta. The university provides the following description:
 
 U-M GPT (currently in beta) can be accessed at <https://umgpt.umich.edu>
 
-```{r echo=FALSE, out.width = "100%", fig.align="center", fig.cap="Example of a question one could ask U-M GPT"}
+```{r echo=FALSE, out.width = "65%", fig.align="center", fig.cap="Example of a question one could ask U-M GPT"}
 if (knitr:::is_latex_output()) {
   knitr::asis_output('\\url{....}')
 } else {

@@ -1,6 +1,5 @@
 fig:unnamed-chunk-6
 fig:unnamed-chunk-7
-fig:unnamed-chunk-8
 fig:unnamed-chunk-9
 fig:unnamed-chunk-10
 fig:unnamed-chunk-11
@@ -9,6 +8,7 @@ fig:unnamed-chunk-13
 fig:unnamed-chunk-14
 fig:unnamed-chunk-15
 fig:unnamed-chunk-16
+fig:unnamed-chunk-17
 introduction
 about-us
 ryan-berger
@@ -26,7 +26,7 @@ u-m-maizey
 u-m-gpt-toolkit
 other-u-m-guidance
 publicly-available-generative-ai
-chatgpt-chat-generative-pre-trained
+chatgpt
 bing-chat
 google-bard
 explainpaper

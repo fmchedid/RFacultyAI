@@ -4,7 +4,17 @@ Publicly available generative AI refers to a set of artificial technologies that
 
 > "The University of Michigan does not endorse any specific AI tools." --- University of Michigan
 
-## ChatGPT (Chat Generative Pre-trained )
+```{r echo=FALSE, out.width = "60%", fig.align="center"}
+if (knitr:::is_latex_output()) {
+  knitr::asis_output('\\url{....}')
+} else {
+  knitr::include_graphics("landscape.png")
+}
+```
+
+Generative AI landscape ([Source](https://www.rapidops.com/blog/generative-ai-tools/)).
+
+## ChatGPT
 
 Developed by OpenAI, [ChatGPT](https://chat.openai.com/) is an advanced chatbot powered by the GPT-3.5 architecture, short for 'Generative Pre-trained Transformer 3.5'. The model is trained on a vast amount of text data from various sources like books, articles, and websites, which helps it understand language patters and acquire a wide knowledge base. It employs Natural Language Processing (NLP) to respond to queries, generate content, condense data and perform many other tasks.
 
