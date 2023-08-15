@@ -4,7 +4,7 @@ Publicly available generative AI refers to a set of artificial technologies that
 
 > "The University of Michigan does not endorse any specific AI tools." --- University of Michigan
 
-```{r echo=FALSE, out.width = "60%", fig.align="center"}
+```{r echo=FALSE, out.width = "60%", fig.align="center", fig.cap="Generative AI landscape ([Source](https://www.rapidops.com/blog/generative-ai-tools/))"}
 if (knitr:::is_latex_output()) {
   knitr::asis_output('\\url{....}')
 } else {
@@ -12,7 +12,7 @@ if (knitr:::is_latex_output()) {
 }
 ```
 
-Generative AI landscape ([Source](https://www.rapidops.com/blog/generative-ai-tools/)).
+
 
 ## ChatGPT
 
