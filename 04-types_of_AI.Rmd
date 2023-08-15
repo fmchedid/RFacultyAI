@@ -12,8 +12,6 @@ if (knitr:::is_latex_output()) {
 }
 ```
 
-
-
 ## ChatGPT
 
 Developed by OpenAI, [ChatGPT](https://chat.openai.com/) is an advanced chatbot powered by the GPT-3.5 architecture, short for 'Generative Pre-trained Transformer 3.5'. The model is trained on a vast amount of text data from various sources like books, articles, and websites, which helps it understand language patters and acquire a wide knowledge base. It employs Natural Language Processing (NLP) to respond to queries, generate content, condense data and perform many other tasks.
