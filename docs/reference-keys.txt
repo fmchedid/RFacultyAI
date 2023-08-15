@@ -27,7 +27,6 @@ u-m-maizey
 u-m-gpt-toolkit
 other-u-m-guidance
 publicly-available-generative-ai
-chatgpt
 bing-chat
 google-bard
 explainpaper

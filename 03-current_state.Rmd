@@ -241,11 +241,11 @@ For writing-intensive courses, the committee recognizes there are specific chall
 
 ## U-M GPT and other U-M Tools
 
-The U-M intends to launch customer GenAI services, starting Fall 2023 with the following three tools at launch.
+U-M intends to launch custom GenAI services. And beginning in Fall 2023, the three below services will be available. More information on these services can be found at <https://genai.umich.edu>.
 
 ### U-M GPT
 
-U-M GPT is currently in beta. The university provides the following description:
+The university provides the following description:
 
 ![](open.png){width="30" height="20"}
 
@@ -263,7 +263,7 @@ U-M GPT is currently in beta. The university provides the following description:
 
 U-M GPT (currently in beta) can be accessed at <https://umgpt.umich.edu>
 
-```{r echo=FALSE, out.width = "65%", fig.align="center", fig.cap="Example of a question one could ask U-M GPT"}
+```{r echo=FALSE, out.width = "75%", fig.align="center", fig.cap="Example of a question one could ask U-M GPT"}
 if (knitr:::is_latex_output()) {
   knitr::asis_output('\\url{....}')
 } else {
@@ -272,8 +272,6 @@ if (knitr:::is_latex_output()) {
 ```
 
 ### U-M Maizey
-
-U-M Maizey is described as:
 
 ![](open.png){width="30" height="20"}
 
@@ -290,8 +288,6 @@ U-M Maizey is described as:
 ![](close.png){width="30" height="20"}
 
 ### U-M GPT Toolkit
-
-U-M GPT Toolkit is described as:
 
 ![](open.png){width="30" height="20"}
 
