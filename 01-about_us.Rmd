@@ -1,5 +1,7 @@
 # About Us
 
+We are a dynamic team of aspiring business analysts pursuing our Master's in Business Analytics. With a passion for extracting value from data, we strive to make a tangible impact by delivering innovative solutions and optimizing strategies. In this project, we utilized our diverse set of backgrounds and experiences to create a project surrounding the implications of AI at Ross. We aim to deliver a product that assists both faculty, staff, and students like ourselves that are faced with the challenges of integrating AI into our education and everyday lives. Here is a little bit about each of us!
+
 ## Ryan Berger
 
 Hey! I'm Ryan Berger. I am a current Master's of Business Analytics student at Michigan Ross. In my undergrad, I also attended Michigan through the School of Information, studying data analytics. I am from New Jersey, which means I am a Giants fan and I like to say I'm from New York. Go Blue!
@@ -34,7 +36,7 @@ Hi, my name is Sona! I'm born and raised in Columbia, South Carolina and a proud
 
 ## Fuad Chedid
 
-Hi! I'm Fuad, a native Michigander! Before joining the Master of Business Analytics program at Michigan Ross, I was based in Dubai, UAE. I consider myself a "tech head" and my main area of interest is the intersection of business and technology. I enjoy travelling and so far have visited 27 countries and five continents. 
+Hi! I'm Fuad, a native Michigander! Before joining the Master of Business Analytics program at Michigan Ross, I was based in Dubai, UAE, and worked in the energy sector. I consider myself a "tech head" and my main area of interest is the intersection of business and technology. I enjoy travelling and so far have visited 27 countries and five continents.
 
 ```{r echo=FALSE, out.width="40%"}
 knitr::include_graphics("fpic.jpeg")
