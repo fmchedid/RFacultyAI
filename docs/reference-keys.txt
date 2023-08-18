@@ -17,6 +17,10 @@ adam-zhang
 michelle-xu
 sona-coshal
 fuad-chedid
+ross-faculty-perspective
+participants
+qa
+insights
 current-state-of-affairs
 u-m-genai-website
 gaia-committee

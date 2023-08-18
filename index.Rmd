@@ -8,7 +8,7 @@ documentclass: book
 url: "https://fmchedid.github.io/RFacultyAI/"
 cover-image: "BugBox_BY_300dpi.jpg"
 description: |
-  This is a working project. AI Declassified: A Ross Faculty Survival Guide
+  AI Declassified: A Ross Faculty Survival Guide
 link-citations: yes
 github-repo: fmchedid/RFacultyAI
 ---
